@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "player_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/446px-Virat_Kohli_in_PMO_New_Delhi.jpg",
+      "player_name": "Virat Kohli",
+      "nationality": "India",
+      "player_position": "Batsman",
+      "batting_hand": "Right-handed",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "player_img": "https://hamariweb.com/profiles/images/profile/4786-321-147.jpg",
+      "player_name": "Babar Azam",
+      "nationality": "Pakistan",
+      "player_position": "Batsman",
+      "batting_hand": "Right-handed",
+      "price": 1150
+    },
+    {
+      "id": 3,
+      "player_img": "https://crictoday.com/wp-content/uploads/2023/02/warner_player_of_the_tournamen_0_1200x768-1-1.jpg",
+      "player_name": "David Warner",
+      "nationality": "Australia",
+      "player_position": "Batsman",
+      "batting_hand": "Left-handed",
+      "price": 1100
+    },
+    {
+      "id": 4,
+      "player_img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Joe_Root_HIP1487_%28cropped%29.jpg",
+      "player_name": "Joe Root",
+      "nationality": "England",
+      "player_position": "Batsman",
+      "batting_hand": "Right-handed",
+      "price": 1050
+    },
+    {
+      "id": 5,
+      "player_img": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/383100/383103.jpg",
+      "player_name": "Kane Williamson",
+      "nationality": "New Zealand",
+      "player_position": "Batsman",
+      "batting_hand": "Right-handed",
+      "price": 1100
+    },
+    {
+      "id": 6,
+      "player_img": "https://www.sportsadda.com/static-assets/waf-images/a4/13/79/1-1/AkX26ebAT5.jpg?v=1.6&w=1024",
+      "player_name": "Ben Stokes",
+      "nationality": "England",
+      "player_position": "All-rounder",
+      "batting_hand": "Left-handed",
+      "price": 1300
+    },
+    {
+      "id": 7,
+      "player_img": "https://c.ndtvimg.com/2024-08/2n3tacfg_shakib-al-hasan-afp_625x300_27_August_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+      "player_name": "Shakib Al Hasan",
+      "nationality": "Bangladesh",
+      "player_position": "All-rounder",
+      "batting_hand": "Left-handed",
+      "price": 1200
+    },
+    {
+      "id": 8,
+      "player_img": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1654505227764.jpg-org",
+      "player_name": "MS Dhoni",
+      "nationality": "India",
+      "player_position": "Batsman(WC)",
+      "batting_hand": "Right-handed",
+      "price": 1000
+    },
+    {
+      "id": 9,
+      "player_img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg",
+      "player_name": "Jasprit Bumrah",
+      "nationality": "India",
+      "player_position": "Fast Bowler",
+      "batting_hand": "Right-handed",
+      "price": 900
+    },
+    {
+      "id": 10,
+      "player_img": "https://api.bdcrictime.com/mitchell-starc-biography-21_06_2024.jpg",
+      "player_name": "Mitchell Starc",
+      "nationality": "Australia",
+      "player_position": "Fast Bowler",
+      "batting_hand": "Left-handed",
+      "price": 9500
+    },
+    {
+      "id": 11,
+      "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/383700/383731.6.jpg",
+      "player_name": "Rashid Khan",
+      "nationality": "Afghanistan",
+      "player_position": "Leg-spinner",
+      "batting_hand": "Right-handed",
+      "price": 1050
+    }
+  ]
+  
